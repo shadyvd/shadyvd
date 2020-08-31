@@ -1,6 +1,6 @@
 #### Currently:
-1. CTO at [![EroNkan Technologies](https://eronkan.com)](https://eronkan.com)
-1. Dabbler at [![Twy'r](https://twyr.github.io)](https://twyr.github.io)
+1. CTO at [EroNkan Technologies](https://eronkan.com)
+1. Dabbler at [Twy'r](https://twyr.github.io)
 1. Open source contributor whenever I get interested in contributing
 
 
