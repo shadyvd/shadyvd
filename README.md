@@ -1,5 +1,4 @@
 ## Vish Desai
-### CTO at [EroNkan Technologies](https://eronkan.com), dabbler at [Twy'r](https://twyr.github.io), minimal contributor otherwise
 
 [![GitHub followers](https://img.shields.io/github/followers/shadyvd?style=for-the-badge&logoColor=white)](https://github.com/shadyvd?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishdesai)
@@ -21,7 +20,8 @@
 
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](http://www.cplusplus.com/)
 
-
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=shadyvd&show_icons=true&count_private=true)](https://github.com/shadyvd)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 <!--
 **shadyvd/shadyvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
