@@ -1,7 +1,5 @@
-<div style="text-align:center;">
-    <h3>Vish Desai</h3>
-    <h5>Currently CTO at <a href="https://eronkan.com">EroNkan Technologies</a>, and dabbler at <a href="https://twyr.github.io">Twy'r</a></h5>
-</div>
+## Vish Desai
+### Currently CTO at [EroNkan Technologies](https://eronkan.com), dabbler at [Twy'r](https://twyr.github.io), and minimal contributor wherever it impacts me
 
 ##### Social Media Presence
 
