@@ -1,4 +1,8 @@
-### Hi there 👋
+## Currently:
+1. CTO at @EroNkan, d
+1. Dabbler at @twyr
+1. Open source contributor whenever I get interested in contributing
+
 
 <!--
 **shadyvd/shadyvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
