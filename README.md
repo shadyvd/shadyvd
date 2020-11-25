@@ -28,7 +28,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 3,732 Contributions in the Year 2020
+> 🏆 3,733 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -90,7 +90,7 @@ JavaScript               6 repos             ███████████�
 
 **Timeline**
 
-![Chart not found](https://github.com/shadyvd/shadyvd/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/shadyvd/shadyvd/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
