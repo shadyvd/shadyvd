@@ -28,7 +28,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 4,035 Contributions in the Year 2020
+> 🏆 4,037 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -67,16 +67,18 @@ Sunday       29 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 35 mins       ██████████████████████░░░   88.74% 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 55 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prescription_importer    2 hrs 55 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
