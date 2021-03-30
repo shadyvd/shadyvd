@@ -24,11 +24,11 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 573 Contributions in the Year 2021
+> 🏆 574 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
