@@ -95,7 +95,6 @@ JavaScript               6 repos             ███████████�
 
 ```
 
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/shadyvd/shadyvd/master/charts/bar_graph.png) 
