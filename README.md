@@ -24,7 +24,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
@@ -67,20 +67,20 @@ Sunday                   19195 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 hrs 52 mins      █████████████████████░░░░   85.15 % 
-JSON                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript               25 hrs 43 mins      █████████████████████░░░░   84.03 % 
+JSON                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  30 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-entity-value-aggregate-se28 hrs 2 mins       █████████████████████████   100.00 % 
+entity-value-aggregate-se30 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    30 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,5 +99,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shadyvd/shadyvd/master/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 02:33:00 UTC
+ Last Updated on 12/01/2026 02:24:51 UTC
 <!--END_SECTION:waka-->
