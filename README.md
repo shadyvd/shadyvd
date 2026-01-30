@@ -24,9 +24,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,21 +67,22 @@ Sunday                   19195 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 34 mins      ██████████████████████░░░   86.59 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript               11 hrs 44 mins      ████████████████████░░░░░   79.25 % 
+Astro                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-entity-value-aggregate-se12 hrs 3 mins       ███████████████████████░░   90.26 % 
-bff-nextjs-tailwind-shadc1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+entity-value-aggregate-se12 hrs 6 mins       ████████████████████░░░░░   81.80 % 
+website                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+bff-nextjs-tailwind-shadc1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 💻 Operating System: 
-Linux                    13 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +101,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shadyvd/shadyvd/master/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 02:44:21 UTC
+ Last Updated on 30/01/2026 02:29:47 UTC
 <!--END_SECTION:waka-->
