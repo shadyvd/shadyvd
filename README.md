@@ -24,13 +24,13 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 350 Bytes Used in GitHub's Storage 
+> 📦 351 Bytes Used in GitHub's Storage 
  > 
 > 🏆 106 Contributions in the Year 2026
  > 
@@ -67,18 +67,19 @@ Sunday                   19240 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 11 mins       ████████████████████████░   95.49 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JavaScript               10 hrs 32 mins      ███████████████████████░░   92.02 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-entity-value-aggregate-se7 hrs 31 mins       █████████████████████████   100.00 % 
+entity-value-aggregate-se11 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,5 +98,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shadyvd/shadyvd/master/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 02:39:29 UTC
+ Last Updated on 25/02/2026 02:38:47 UTC
 <!--END_SECTION:waka-->
