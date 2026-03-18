@@ -24,13 +24,13 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvd)](https://github.com/shadyvd)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C239%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 353 Bytes Used in GitHub's Storage 
+> 📦 354 Bytes Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2026
  > 
@@ -67,21 +67,21 @@ Sunday                   19238 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 5 mins        █████████████░░░░░░░░░░░░   51.36 % 
-TypeScript               4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
-JSON                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JavaScript               9 hrs 56 mins       ███████████████░░░░░░░░░░   60.17 % 
+TypeScript               4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-entity-value-aggregate-se8 hrs 58 mins       ██████████████░░░░░░░░░░░   56.98 % 
-ayur-adhar-app           6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
+entity-value-aggregate-se10 hrs 49 mins      ████████████████░░░░░░░░░   65.46 % 
+ayur-adhar-app           5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
 
 💻 Operating System: 
-Linux                    15 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +100,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shadyvd/shadyvd/master/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 02:35:39 UTC
+ Last Updated on 18/03/2026 02:46:22 UTC
 <!--END_SECTION:waka-->
